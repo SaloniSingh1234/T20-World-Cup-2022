@@ -12,6 +12,7 @@ Objectives:
  trends or patterns that suggest a correlation between the toss result and match results.
 4. Player of the Tournament Analysis : Determine the most impactful player of the tournament based on 
  their overall performance , including batting, bowling and fielding contributions.
+
 Conclusion:
  Through a comprehensive analysis of he T20 World Cup 2022 data, this project aims to provide
  valuable insights into team performances, played statistics and strategic aspects of the tournament.
